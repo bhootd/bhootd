@@ -25,8 +25,8 @@ Find me on: [Website](https://bhoot.dev) • [Lobsters](https://lobste.rs/~bhoot
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#138](https://github.com/flathub/com.jetbrains.WebStorm/issues/138) in [flathub/com.jetbrains.WebStorm](https://github.com/flathub/com.jetbrains.WebStorm)
-2. 💪 Opened PR [#61](https://github.com/ocaml-community/zed/pull/61) in [ocaml-community/zed](https://github.com/ocaml-community/zed)
+1. 🗣 Commented on [#38](https://github.com/bhootd/pin-unpin-tab/pull/38#issuecomment-3673358372) in [bhootd/pin-unpin-tab](https://github.com/bhootd/pin-unpin-tab)
+2. 🔒 Closed issue [#37](https://github.com/bhootd/pin-unpin-tab/issues/37) in [bhootd/pin-unpin-tab](https://github.com/bhootd/pin-unpin-tab)
 3. 🔒 Closed issue [#6](https://github.com/RoyalSloth/SlothTracker/issues/6) in [RoyalSloth/SlothTracker](https://github.com/RoyalSloth/SlothTracker)
 4. ❗ Opened issue [#6](https://github.com/RoyalSloth/SlothTracker/issues/6) in [RoyalSloth/SlothTracker](https://github.com/RoyalSloth/SlothTracker)
 5. 🗣 Commented on [#214](https://github.com/ericwbailey/a11y-webring.club/pull/214#issuecomment-2566121992) in [ericwbailey/a11y-webring.club](https://github.com/ericwbailey/a11y-webring.club)
