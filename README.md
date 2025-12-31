@@ -11,6 +11,7 @@ Find me on: [Website](https://bhoot.dev) • [Lobsters](https://lobste.rs/~bhoot
 ## Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A primer on car insurance (in India)](https://bhoot.devhttps://bhoot.dev/2025/car-insurance-primer)
 - [Improved font rendering in Guix](https://bhoot.devhttps://bhoot.dev/2025/guix-improved-font-rendering)
 - [<code>git stage</code> over <code>git add</code>](https://bhoot.devhttps://bhoot.dev/2025/git-stage-over-git-add)
 - [On Stephen Baxter's Manifold books](https://bhoot.devhttps://bhoot.dev/2025/stephen-baxter-manifold)
@@ -19,8 +20,7 @@ Find me on: [Website](https://bhoot.dev) • [Lobsters](https://lobste.rs/~bhoot
 - [A case of unsoundness in TypeScript](https://bhoot.devhttps://bhoot.dev/2025/typescript-usecase-over-soundness)
 - [Understanding various syntaxes to annotate a function's type in TypeScript](https://bhoot.devhttps://bhoot.dev/2025/typescript-function-type-syntaxes)
 - [JavaScript function declaration v/s arrow function in a browser console](https://bhoot.devhttps://bhoot.dev/2025/function-vs-arrow)
-- [Someone's high hopes- to dash or not to dash](https://bhoot.devhttps://bhoot.dev/2025/high-hopes-to-dash-or-not)
-- [Copying <em>all</em> files of a directory, including hidden ones, with <code>cp</code>](https://bhoot.devhttps://bhoot.dev/2025/cp-dot-copies-everything)<!-- BLOG-POST-LIST:END -->
+- [Someone's high hopes- to dash or not to dash](https://bhoot.devhttps://bhoot.dev/2025/high-hopes-to-dash-or-not)<!-- BLOG-POST-LIST:END -->
 
 ## Recent GitHub activity
 
