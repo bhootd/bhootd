@@ -11,16 +11,16 @@ Find me on: [Website](https://bhoot.dev) • [Lobsters](https://lobste.rs/~bhoot
 ## Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A primer on car insurance (in India)](https://bhoot.devhttps://bhoot.dev/2025/car-insurance-primer)
-- [Improved font rendering in Guix](https://bhoot.devhttps://bhoot.dev/2025/guix-improved-font-rendering)
-- [<code>git stage</code> over <code>git add</code>](https://bhoot.devhttps://bhoot.dev/2025/git-stage-over-git-add)
-- [On Stephen Baxter's Manifold books](https://bhoot.devhttps://bhoot.dev/2025/stephen-baxter-manifold)
-- [Tip for my future self: If Emacs throws an arcane error — <code>project--read-file-name: Wrong type argument: stringp, nil</code> — while trying to find a file in a git project (<code>C-x p f</code>), then one likely reason is that the git project is empty.](https://bhoot.devhttps://bhoot.dev/2025/emacs-fit-at-empty-git-project)
-- [How I configured OS-specific fonts in Emacs](https://bhoot.devhttps://bhoot.dev/2025/emacs-font-per-os)
-- [A case of unsoundness in TypeScript](https://bhoot.devhttps://bhoot.dev/2025/typescript-usecase-over-soundness)
-- [Understanding various syntaxes to annotate a function's type in TypeScript](https://bhoot.devhttps://bhoot.dev/2025/typescript-function-type-syntaxes)
-- [JavaScript function declaration v/s arrow function in a browser console](https://bhoot.devhttps://bhoot.dev/2025/function-vs-arrow)
-- [Someone's high hopes- to dash or not to dash](https://bhoot.devhttps://bhoot.dev/2025/high-hopes-to-dash-or-not)<!-- BLOG-POST-LIST:END -->
+- [A primer on car insurance (in India)](https://bhoot.dev/2025/car-insurance-primer)
+- [Improved font rendering in Guix](https://bhoot.dev/2025/guix-improved-font-rendering)
+- [<code>git stage</code> over <code>git add</code>](https://bhoot.dev/2025/git-stage-over-git-add)
+- [On Stephen Baxter's Manifold books](https://bhoot.dev/2025/stephen-baxter-manifold)
+- [Tip for my future self: If Emacs throws an arcane error — <code>project--read-file-name: Wrong type argument: stringp, nil</code> — while trying to find a file in a git project (<code>C-x p f</code>), then one likely reason is that the git project is empty.](https://bhoot.dev/2025/emacs-fit-at-empty-git-project)
+- [How I configured OS-specific fonts in Emacs](https://bhoot.dev/2025/emacs-font-per-os)
+- [A case of unsoundness in TypeScript](https://bhoot.dev/2025/typescript-usecase-over-soundness)
+- [Understanding various syntaxes to annotate a function's type in TypeScript](https://bhoot.dev/2025/typescript-function-type-syntaxes)
+- [JavaScript function declaration v/s arrow function in a browser console](https://bhoot.dev/2025/function-vs-arrow)
+- [Someone's high hopes- to dash or not to dash](https://bhoot.dev/2025/high-hopes-to-dash-or-not)<!-- BLOG-POST-LIST:END -->
 
 ## Recent GitHub activity
 
