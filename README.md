@@ -11,6 +11,7 @@ Find me on: [Website](https://bhoot.dev) • [Lobsters](https://lobste.rs/~bhoot
 ## Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My understanding of SBI Max Gain loan account](https://bhoot.dev/2026/sbi-max-gain)
 - [A primer on car insurance (in India)](https://bhoot.dev/2025/car-insurance-primer)
 - [Improved font rendering in Guix](https://bhoot.dev/2025/guix-improved-font-rendering)
 - [<code>git stage</code> over <code>git add</code>](https://bhoot.dev/2025/git-stage-over-git-add)
@@ -19,8 +20,7 @@ Find me on: [Website](https://bhoot.dev) • [Lobsters](https://lobste.rs/~bhoot
 - [How I configured OS-specific fonts in Emacs](https://bhoot.dev/2025/emacs-font-per-os)
 - [A case of unsoundness in TypeScript](https://bhoot.dev/2025/typescript-usecase-over-soundness)
 - [Understanding various syntaxes to annotate a function's type in TypeScript](https://bhoot.dev/2025/typescript-function-type-syntaxes)
-- [JavaScript function declaration v/s arrow function in a browser console](https://bhoot.dev/2025/function-vs-arrow)
-- [Someone's high hopes- to dash or not to dash](https://bhoot.dev/2025/high-hopes-to-dash-or-not)<!-- BLOG-POST-LIST:END -->
+- [JavaScript function declaration v/s arrow function in a browser console](https://bhoot.dev/2025/function-vs-arrow)<!-- BLOG-POST-LIST:END -->
 
 ## Recent GitHub activity
 
