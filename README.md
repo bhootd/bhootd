@@ -25,7 +25,7 @@ Find me on: [Website](https://bhoot.dev) • [Lobsters](https://lobste.rs/~bhoot
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8541](https://github.com/doomemacs/doomemacs/issues/8541#issuecomment-3700162180) in [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs)
+1. 🗣 Commented on [#1867](https://github.com/lem-project/lem/issues/1867#issuecomment-4373471061) in [lem-project/lem](https://github.com/lem-project/lem)
 2. 🗣 Commented on [#8541](https://github.com/doomemacs/doomemacs/issues/8541#issuecomment-3698451284) in [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs)
 3. 🗣 Commented on [#4000](https://github.com/jsdom/jsdom/issues/4000#issuecomment-3681005352) in [jsdom/jsdom](https://github.com/jsdom/jsdom)
 4. 🗣 Commented on [#38](https://github.com/bhootd/pin-unpin-tab/pull/38#issuecomment-3673358372) in [bhootd/pin-unpin-tab](https://github.com/bhootd/pin-unpin-tab)
