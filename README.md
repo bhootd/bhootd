@@ -25,8 +25,8 @@ Find me on: [Website](https://bhoot.dev) • [Lobsters](https://lobste.rs/~bhoot
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#196](https://github.com/xonixx/makesure/issues/196) in [xonixx/makesure](https://github.com/xonixx/makesure)
-2. 🗣 Commented on [#1867](https://github.com/lem-project/lem/issues/1867#issuecomment-4373471061) in [lem-project/lem](https://github.com/lem-project/lem)
+1. 🗣 Commented on [#196](https://github.com/xonixx/makesure/issues/196#issuecomment-4677934059) in [xonixx/makesure](https://github.com/xonixx/makesure)
+2. ❗ Opened issue [#196](https://github.com/xonixx/makesure/issues/196) in [xonixx/makesure](https://github.com/xonixx/makesure)
 3. 🗣 Commented on [#4000](https://github.com/jsdom/jsdom/issues/4000#issuecomment-3681005352) in [jsdom/jsdom](https://github.com/jsdom/jsdom)
 4. 🗣 Commented on [#38](https://github.com/bhootd/pin-unpin-tab/pull/38#issuecomment-3673358372) in [bhootd/pin-unpin-tab](https://github.com/bhootd/pin-unpin-tab)
 5. 🔒 Closed issue [#37](https://github.com/bhootd/pin-unpin-tab/issues/37) in [bhootd/pin-unpin-tab](https://github.com/bhootd/pin-unpin-tab)
